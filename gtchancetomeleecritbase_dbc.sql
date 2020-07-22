@@ -1,0 +1,11 @@
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (1,0.031891); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (2,0.032685); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (3,-0.01532); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (4,-0.00295); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (5,0.031765); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (6,0.031891); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (7,0.02922); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (8,0.03454); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (9,0.02622); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (10,0.2); 
+INSERT INTO `gtchancetomeleecritbase_dbc` VALUES (11,0.074755); 

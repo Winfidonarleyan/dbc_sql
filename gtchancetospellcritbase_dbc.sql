@@ -1,0 +1,11 @@
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (1,0); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (2,0.033355); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (3,0.03602); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (4,0); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (5,0.012375); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (6,0); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (7,0.02201); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (8,0.009075); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (9,0.017); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (10,0.2); 
+INSERT INTO `gtchancetospellcritbase_dbc` VALUES (11,0.018515); 
